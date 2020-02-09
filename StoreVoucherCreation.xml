@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="10" parallel="tests" thread-count="3">
+
+	<test thread-count="1" name="StoreVoucherCreationSuiteOne" parallel="methods">
+
+		<classes>
+			<class name="com.admin.testsuites.storevouchercreation.StoreVoucherCreationSuiteOne" />
+		</classes>
+
+	</test>
+
+	<test thread-count="1" name="StoreVoucherCreationSuiteTwo" parallel="methods">
+
+		<classes>
+			<class name="com.admin.testsuites.storevouchercreation.StoreVoucherCreationSuiteTwo" />
+		</classes>
+
+	</test>
+
+	<test thread-count="1" name="StoreVoucherCreationSuiteThree" parallel="methods">
+
+		<classes>
+			<class name="com.admin.testsuites.storevouchercreation.StoreVoucherCreationSuiteThree" />
+		</classes>
+
+	</test>
+
+	<test thread-count="1" name="StoreVoucherCreationSuiteFour" parallel="methods">
+
+		<classes>
+			<class name="com.admin.testsuites.storevouchercreation.StoreVoucherCreationSuiteFour" />
+		</classes>
+
+	</test>
+
+	<test thread-count="1" name="StoreVoucherCreationSuiteFive" parallel="methods">
+
+		<classes>
+			<class name="com.admin.testsuites.storevouchercreation.StoreVoucherCreationSuiteFive" />
+		</classes>
+
+	</test>
+
+</suite> <!-- Suite -->

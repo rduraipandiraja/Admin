@@ -1,0 +1,24 @@
+<config>
+	<configurationUrls>
+			
+		<!-- CashkaroConfigurationUrls -->
+		<configuration_urls>
+	
+			<partner>    					cashkaro  									</partner>
+			<environment>  					beta	  									</environment>
+						
+			<frontend_url>     				https://cashkaro.iamsavings.co.uk    		</frontend_url>
+			<admin_url>  	   				https://admin.iamsavings.co.uk    			</admin_url>
+			
+			<dropdown> 						Cashkaro									</dropdown>
+			
+			<username> 						dev											</username>
+			<password> 						ppbetaadmin!@3S								</password>
+			
+			<file_name>  	   				CK_Json_StoreVoucher_TestData.json			</file_name>
+					
+		</configuration_urls>
+	
+	</configurationUrls>
+	
+</config>

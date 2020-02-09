@@ -1,0 +1,22 @@
+<adminTestdata>
+	<testdata>
+
+		<Stores>
+
+			
+			<directory_name> 						/dynamicJSONdata/								</directory_name>
+			<fileRoot>								{}                               		        </fileRoot>
+			<intNetworkCommission> 					250      										</intNetworkCommission>
+			<strCurrencySelection_INR> 				INR												</strCurrencySelection_INR>
+			<strCBtype_Currency>					Currency										</strCBtype_Currency>
+			<strCBtype_Percentage>					Percentage										</strCBtype_Percentage>
+			<strCB_Percentage>						50												</strCB_Percentage>
+			<strCashback>							125												</strCashback>
+			<strNewStore_CBOfferType>				Exclusive Rate									</strNewStore_CBOfferType>
+			<strCBDetails>							This is Test Automation entering the CB details	</strCBDetails>
+
+
+		</Stores>
+
+	</testdata>
+</adminTestdata>
